@@ -1,2 +1,4 @@
 # Golang
-Basic Golang day01-day08
+Basic Golang 
+	day01
+	day02
