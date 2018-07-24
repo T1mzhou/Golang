@@ -1,4 +1,3 @@
 # Golang
 Basic Golang 
-	day01
-	day02
+	day01-day09
